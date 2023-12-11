@@ -2,7 +2,7 @@
 
 ## **🕒 DURACIÓN ESTIMADA**
 
-XX minutos
+10 minutos
 
 <br />
 
